@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConexionBbddCRUDc#", "ConexionBbddCRUDc#\ConexionBbddCRUDc#.csproj", "{B4791F50-7C96-425D-A604-ECA7B655EB23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4791F50-7C96-425D-A604-ECA7B655EB23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4791F50-7C96-425D-A604-ECA7B655EB23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4791F50-7C96-425D-A604-ECA7B655EB23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4791F50-7C96-425D-A604-ECA7B655EB23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {038C1925-92F0-4221-86EF-773D7FEFA35E}
+	EndGlobalSection
+EndGlobal

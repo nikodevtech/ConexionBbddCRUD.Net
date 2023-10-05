@@ -1,0 +1,44 @@
+
+	** INFO ConexionBbddImpl configuracionConexion ** Estado conexión: Open
+
+	** INFO ConexionBbddImpl configuracionConexion ** Estado conexión: Open
+
+	** INFO ConexionBbddImpl configuracionConexion ** Estado conexión: Open
+
+	** INFO ConexionBbddImpl configuracionConexion ** Estado conexión: Open
+
+	** INFO OperacionesBbddImpl ReadLibro** Cierre conexión a bbdd, npgsqlcommand y datareader
+
+	** INFO ConexionBbddImpl configuracionConexion ** Estado conexión: Open
+
+	** INFO OperacionesBbddImpl ReadLibro** Cierre conexión a bbdd, npgsqlcommand y datareader
+
+	** INFO ConexionBbddImpl configuracionConexion ** Estado conexión: Open
+
+	** INFO OperacionesBbddImpl CargaListaLibrosActuales ** Cierre conexión a bbdd, datareader y npgsqlcommand
+
+	** INFO ConexionBbddImpl configuracionConexion ** Estado conexión: Open
+
+	** INFO OperacionesBbddImpl ReadLibro** Cierre conexión a bbdd, npgsqlcommand y datareader
+
+	** INFO ConexionBbddImpl configuracionConexion ** Estado conexión: Open
+
+	** INFO OperacionesBbddImpl CargaListaLibrosActuales ** Cierre conexión a bbdd, datareader y npgsqlcommand
+
+	** INFO ConexionBbddImpl configuracionConexion ** Estado conexión: Open
+
+	** INFO ConexionBbddImpl configuracionConexion ** Estado conexión: Open
+
+	** INFO OperacionesBbddImpl ReadLibro** Cierre conexión a bbdd, npgsqlcommand y datareader
+
+	** INFO ConexionBbddImpl configuracionConexion ** Estado conexión: Open
+
+	** INFO ConexionBbddImpl configuracionConexion ** Estado conexión: Open
+
+	** INFO OperacionesBbddImpl ReadLibro** Cierre conexión a bbdd, npgsqlcommand y datareader
+
+	** INFO ConexionBbddImpl configuracionConexion ** Estado conexión: Open
+
+	** INFO OperacionesBbddImpl CargaListaLibrosActuales ** Cierre conexión a bbdd, datareader y npgsqlcommand
+
+	** INFO ConexionBbddImpl configuracionConexion ** Estado conexión: Open
